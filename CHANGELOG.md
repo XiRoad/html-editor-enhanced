@@ -1,3 +1,8 @@
+## [2.5.1] - 2022-10-05
+* Fix assets
+* Fix deprecations
+* Upgrade dependencies
+
 ## [2.5.0] - 2022-06-04
 * Support Flutter 3.0 (remove warnings) (@Cteq3132)
 * [BREAKING] Support modifying `foreColorSelected` and `backColorSelected` when using a custom dialog for font coloring
